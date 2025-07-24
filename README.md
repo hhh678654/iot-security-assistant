@@ -1,4 +1,4 @@
-\# 🛡️ IoT Security Intelligent Assistant
+<img width="1827" height="869" alt="image" src="https://github.com/user-attachments/assets/0c762f42-db17-4742-a202-e21caef6c7c2" />\# 🛡️ IoT Security Intelligent Assistant
 
 
 
@@ -356,13 +356,12 @@ iot-security-assistant/
 
 |------|------|
 
-| 平均响应时间 | < 5秒 |
+| 平均响应时间 | < 50秒 |
 
-| 知识库文档 | 10,000+ |
+| 知识库文档 | 6,000+ |
 
 | 支持语言 | 中文/英文 |
 
-| 并发用户 | 10+ |
 
 | 内存使用 | < 4GB |
 
