@@ -1,4 +1,8 @@
-<img width="1827" height="869" alt="image" src="https://github.com/user-attachments/assets/0c762f42-db17-4742-a202-e21caef6c7c2" />\# 🛡️ IoT Security Intelligent Assistant
+
+<img width="1132" height="603" alt="image" src="https://github.com/user-attachments/assets/29314e1f-e4a9-4878-ac36-440cb71b243d" />
+
+<img width="1115" height="598" alt="image" src="https://github.com/user-attachments/assets/39bb2719-d214-4698-aef6-58d71c1c362a" />
+
 
 
 
